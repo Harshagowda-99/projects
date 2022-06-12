@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+    max-width: 100%;
+
+}
+
+main{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-top: 7rem;
+
+}
+
+.header{
+    color: brown;
+}
+
+a{
+    padding: 2rem;
+    font-size:1.2rem;
+}
+h2{
+color: darkmagenta;
+}
